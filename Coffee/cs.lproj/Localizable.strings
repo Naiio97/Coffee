@@ -3,8 +3,13 @@
 "History" = "Historie";
 "Enter_amount" = "Zadej množství kávy (ml)";
 "Select_date" = "Vyber datum";
+"Date" = "Datum";
 "Coffee_type" = "Typ kávy";
 "Cafe_purchase" = "Káva v kavárně";
 "Enter_price" = "Zadej cenu (Kč)";
 "Espresso" = "Espresso";
 "Filter" = "Filtr";
+"Coffee_tracker" = "Sledování kávy";
+"Amount" = "Množství";
+"Type" = "Typ";
+"Price" = "Cena";
